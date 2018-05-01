@@ -5,6 +5,6 @@ Bots that we are using in our organization.
 
 Originally made by **PROBOT**. We added some new features of our own.
 
-- [Deployed on glitch](https://glitch.com/edit/#!/delicate-quality?)
+- [Deployed on glitch](https://glitch.com/edit/#!/ember-attic)
 
 - [Click to Install on repos](https://github.com/apps/unfurl)
